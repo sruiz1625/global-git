@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    height: 70px;
+    background-color: rgb(231, 243, 70);
+    justify-content: space-between;
+    padding: 10px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 50px;
+margin-right: 10px;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
+nav a:hover{
+    color: rgb(0, 0, 0);
+}
+footer{
+    display: flex;
+    
+}
